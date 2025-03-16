@@ -1,0 +1,17 @@
+[
+     {
+          "id": 501,
+          "name": "Bob",
+          "address": "Constanta 7"
+     },
+     {
+          "id": 502,
+          "name": "Dob",
+          "address": "Gorjului 49"
+     },
+     {
+          "id": 503,
+          "name": "Emanuel",
+          "address": "Siretului 18"
+     }
+]
